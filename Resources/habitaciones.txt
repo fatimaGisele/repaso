@@ -1,0 +1,14 @@
+﻿1 , nombreee ,  descripción
+2 , nombreee ,  descripción
+3 , nombreee ,  descripción
+4 , Ingrese el Nombre , Ingrese la descripción
+5 , Ingrese el Nombre , Ingrese la descripción
+6 , Ingrese el Nombre , Ingrese la descripción
+7 , Ingrese el Nombre , Ingrese la descripción
+8 , putoooo , Ielqleeepción
+9 , putoooo , Ielqleeepción
+10 , putoooo , Ielqleeepción
+11 , putoooo , Ielqleeepción
+12,holis Nombre,q hace
+13,hol,a
+14,hol,a
